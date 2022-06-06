@@ -1,7 +1,5 @@
 <span align="left">
-  
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Ola! Seja Bem Vindo(a)
- </h2>
+  <h2> Seja Bem Vindo(a) </h2>
 </span>
 
 <div>
