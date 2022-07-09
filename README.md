@@ -31,7 +31,7 @@
       <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" />
     </a>
     <a href="mailto:pedrohricksilva@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/pedrohricksilva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     <a/>
 </div>
 <!--
