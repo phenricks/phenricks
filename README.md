@@ -28,7 +28,7 @@
   ### Let's connect ? :handshake:
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/pedrohrick/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" />
     </a>
     <a href="mailto:REDACTED" target="_blank">
       <img src="https://img.shields.io/badge/REDACTED-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
