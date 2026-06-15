@@ -37,6 +37,14 @@
 
 ### 📌 Active Projects
 
+<a href="https://github.com/phenricks/skillforge">
+  <img src="https://img.shields.io/badge/skillforge-curated%20skills-6B7B8D?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br>
+<a href="https://github.com/phenricks/cypher-infra">
+  <img src="https://img.shields.io/badge/cypher--infra-profile%20setup-6B7B8D?style=for-the-badge&labelColor=0d1117" />
+</a>
+<br>
 <a href="https://github.com/phenricks/secdevops-agent">
   <img src="https://img.shields.io/badge/secdevops--agent-security%20agents-6B7B8D?style=for-the-badge&labelColor=0d1117" />
 </a>
