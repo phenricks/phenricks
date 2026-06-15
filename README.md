@@ -1,6 +1,5 @@
 # ⚡ Pedro Henrique
 
-> *Software Engineer · Cybersecurity Specialist · *
 
 ```
 ┌─────────────────────────────────────────────────────────┐
